@@ -42,4 +42,10 @@ Users should be able to:
 I really liked being able to do this challenge. Experience things you've been wondering about for a long time like animations and transitions.
 I still have a lot to learn about responsiveness. But I will continue to learn very carefully.
 
+## Author
+
+- Linkedin - [Daniel Villegas](https://www.linkedin.com/in/daniel-rodriguez-villegas-349b01240/)
+- Frontend Mentor - [@VillD](https://www.frontendmentor.io/profile/VillD)
+- Instagram - [@ddaniel.vill](https://www.instagram.com/ddaniel.vill/)
+
 
